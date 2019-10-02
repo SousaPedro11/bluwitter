@@ -1,4 +1,4 @@
-package b.pa.gov.iec.bluwitter;
+package br.pa.gov.iec.bluwitter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
